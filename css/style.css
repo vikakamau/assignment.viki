@@ -9,6 +9,13 @@ font-family: Georgia, 'Times New Roman', Times, serif;
         color: white;
         text-align: center;
     }
+    .zenz{
+        color: black;
+        text-align: left;
+    }
+    .brr{
+        size: 0vi;
+    }
     pre{
         text-align: center;
     }
