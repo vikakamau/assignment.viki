@@ -13,10 +13,20 @@ font-family: Georgia, 'Times New Roman', Times, serif;
         color: black;
         text-align: left;
     }
-    .brr{
-        size: 0vi;
-    }
     pre{
         text-align: center;
     }
+    border: 653px solid;
+    height: 1413px;
+    #brr{
+        height: 60px;
+        width: 300px;
+        text-align: center;
+}
+#cnn{
+    height: 53px;
+    width: 250px;
+    text-align: center;
+    flo;
+}
 }
