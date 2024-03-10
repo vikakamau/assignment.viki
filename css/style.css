@@ -1,8 +1,12 @@
-body{
+ *{
+    padding: px;
+    margin: 0px;
+ }
+ body{
     background-color: darkgrey;
 font-family: Georgia, 'Times New Roman', Times, serif;
     
-    h2{
+    #name{
         color: white;
     }
     h3{
@@ -16,8 +20,10 @@ font-family: Georgia, 'Times New Roman', Times, serif;
     pre{
         text-align: center;
     }
-    border: 653px solid;
-    height: 1413px;
+    width: 653px;
+    height: 1813px;
+    top: 17px;
+    left: -8px;
     #brr{
         height: 60px;
         width: 300px;
@@ -27,6 +33,53 @@ font-family: Georgia, 'Times New Roman', Times, serif;
     height: 53px;
     width: 250px;
     text-align: center;
-    flo;
+}
+#circ{
+    position: relative;
+    float: right;
+    bottom: 80px;
+    right: 165px;
+    margin-bottom: 5%;
+}
+#brief{
+    margin-top: 5%;
+    padding: 3%;
+}
+#head{
+    text-align: center;
+}
+.container1{
+     display: flex;
+     flex-direction: row ;
+     justify-content: space-between;
+     justify-content: space-around;
+}
+.container2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+.box{
+    width: 100px;
+    height: 100px;
+}
+#box1{
+    background-color: grey;
+}
+#box2{
+    background-color: gray;
+}
+#box3{
+    background-color: gray;
+}
+#box4{
+    background-color: gray;
+}
+#box5{
+    background-color: gray;
+}
+#box6{
+    background-color: gray;
 }
 }
